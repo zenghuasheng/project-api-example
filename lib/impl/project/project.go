@@ -1,4 +1,4 @@
-package impl
+package project
 
 import "example/lib/expose_api/project"
 
